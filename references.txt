@@ -1,0 +1,16 @@
+https://rhettinger.wordpress.com/2011/05/26/super-considered-super/
+
+https://www.youtube.com/watch?v=T-TwcmT6Rcw
+
+
+PEP 484 -- Type Hints - Python3.5
+PEP 526 -- Syntax for Variable Annotations - Python3.6
+PEP 557 -- Data Classes - Python3.7
+
+
+
+
+
+
+
+
